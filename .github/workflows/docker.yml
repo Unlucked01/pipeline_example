@@ -32,7 +32,7 @@ jobs:
         uses: docker/login-action@v2.1.0
         with:
           username: unlucked
-          password: Hochupitsu01
+          password: k8VYbXd5HbzsYFB
       -
         name: "Docker build & push"
         id: "build"
